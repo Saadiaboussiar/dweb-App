@@ -1,2 +1,3 @@
-# dweb-App
-main repository for the dweb-App project
+## 🔗 Repositories
+- Frontend : github.com/Saadiaboussiar/dweb-App-Frontend
+- Backend : github.com/Saadiaboussiar/dweb-App-Backend
